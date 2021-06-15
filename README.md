@@ -17,10 +17,6 @@
    ```shell
     php artisan key:generate
    ```
-1. Run artisan migration.
-   ```shell
-    php artisan migrate
-   ```
 1. Run artisan serve.
    ```shell
     php artisan serve
