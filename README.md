@@ -11,7 +11,6 @@
     npm run watch
    ```
 1. Create .env file based on env.example
-1. Configure db in .env
 1. Configure api project base url and request url in .env - see https://github.com/nurazimzahurin/interview-tri-e-marketing-project-2
 1. Run artisan key:generate.
    ```shell
