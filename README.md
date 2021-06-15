@@ -22,9 +22,9 @@
     php artisan migrate
    ```
 1. Run artisan serve.
-```shell
-php artisan serve
-```
+   ```shell
+    php artisan serve
+   ```
 
 ## Features
 
